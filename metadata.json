@@ -1,0 +1,7 @@
+{
+  "name": "Smile Ai",
+  "description": "A friendly conversational voice assistant powered by Gemini 2.5 Live API, featuring real-time audio interaction and transcriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
